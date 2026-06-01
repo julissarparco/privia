@@ -1,0 +1,69 @@
+{
+  "chunks": [
+    {
+      "document_name": "Política de Protección de Datos Personales — Banco General",
+      "document_type": "politica_interna",
+      "article": "Sección 1",
+      "section": "Finalidad y responsable del tratamiento",
+      "content": "Esta política tiene por objeto dar a conocer el modo en que se obtienen, tratan y protegen los datos personales que se facilitan a través del sitio web por medio de formularios y/o cookies. El Responsable del tratamiento es Banco General. El Delegado de Protección de Datos puede contactarse en dpogrupoBanco@Banco.com. Los datos personales se tratan con absoluta confidencialidad, comprometiéndose a guardar secreto respecto de los mismos y garantizando el deber de guardarlos adoptando todas las medidas necesarias que eviten su alteración, pérdida, tratamiento o acceso no autorizado, de acuerdo con las obligaciones legales aplicables como responsables del tratamiento.",
+      "document_uri": "data/politica_proteccion_datos.pdf#sec1",
+      "chunk_id": "politica_sec1_finalidad",
+      "criticality": "medium",
+      "topic": "principios_generales",
+      "source_owner": "Banco General",
+      "updated_at": "2025-04-21"
+    },
+    {
+      "document_name": "Política de Protección de Datos Personales — Banco General",
+      "document_type": "politica_interna",
+      "article": "Sección 3",
+      "section": "Comunicación y transferencia internacional de datos a terceros",
+      "content": "No se cederán datos personales a terceros, salvo que exista obligación legal o consentimiento del titular. Para prestación de servicios, proveedores de telecomunicaciones tratan datos por cuenta del Banco como parte de los servicios contratados. Las transferencias internacionales de datos se realizan a países con un nivel de protección equiparable al de la Unión Europea mediante: decisiones de adecuación de la Comisión Europea, cláusulas contractuales tipo, y mecanismos de certificación. Cuando sea necesario el consentimiento para comunicar datos a terceros, se informará de la finalidad, los datos objeto de comunicación y la identidad o sectores de actividad de los posibles cesionarios.",
+      "document_uri": "data/politica_proteccion_datos.pdf#sec3",
+      "chunk_id": "politica_sec3_transferencias",
+      "criticality": "high",
+      "topic": "transferencias_internacionales",
+      "source_owner": "Banco General",
+      "updated_at": "2025-04-21"
+    },
+    {
+      "document_name": "Política de Protección de Datos Personales — Banco General",
+      "document_type": "politica_interna",
+      "article": "Sección 4",
+      "section": "Derechos del titular — ARCO+ (Acceso, Rectificación, Supresión, Oposición, Portabilidad, Limitación)",
+      "content": "El titular puede ejercer los siguientes derechos de forma gratuita: ACCESO: consultar datos personales incluidos en ficheros del Banco. RECTIFICACIÓN: modificar datos personales cuando sean inexactos. SUPRESIÓN: solicitar la eliminación de datos personales. OPOSICIÓN: solicitar que no se traten los datos personales. LIMITACIÓN DEL TRATAMIENTO: limitar el tratamiento mientras se comprueba la exactitud, cuando el tratamiento es ilícito, cuando el Banco no necesite los datos pero el titular los necesite para reclamaciones, o cuando se haya opuesto al tratamiento. PORTABILIDAD: recibir en formato electrónico los datos facilitados y transmitirlos a otra entidad. En cualquier momento puede retirarse el consentimiento sin afectar la licitud del tratamiento previo. Canal de ejercicio: derechosprotecciondatos@Banco.com",
+      "document_uri": "data/politica_proteccion_datos.pdf#sec4",
+      "chunk_id": "politica_sec4_derechos",
+      "criticality": "high",
+      "topic": "derechos_titular",
+      "source_owner": "Banco General",
+      "updated_at": "2025-04-21"
+    },
+    {
+      "document_name": "Política de Protección de Datos Personales — Banco General",
+      "document_type": "politica_interna",
+      "article": "Sección 5",
+      "section": "Retención, conservación y eliminación de datos",
+      "content": "Los datos se conservan durante el tiempo que indique el formulario de recogida, así como el plazo señalado en la Política de cookies. El período de conservación debe ser el mínimo necesario para cumplir la finalidad del tratamiento. Una vez expirado el período de retención, los datos deben ser eliminados de forma segura o anonimizados de manera irreversible. La política interna establece que logs de acceso se retienen 90 días, datos de clientes activos hasta finalización de la relación comercial más el período legal aplicable, y datos de cookies según duración especificada. No se deben conservar datos más allá de su finalidad original sin nueva base legal.",
+      "document_uri": "data/politica_proteccion_datos.pdf#sec5",
+      "chunk_id": "politica_sec5_retencion",
+      "criticality": "medium",
+      "topic": "retencion_datos",
+      "source_owner": "Banco General",
+      "updated_at": "2025-04-21"
+    },
+    {
+      "document_name": "Política de Protección de Datos Personales — Banco General",
+      "document_type": "politica_interna",
+      "article": "Sección 6",
+      "section": "Medidas de seguridad técnicas y organizativas",
+      "content": "Se implementan y mantienen los más altos niveles de seguridad exigidos por la legislación para proteger datos de carácter personal frente a pérdidas fortuitas y accesos, tratamientos o revelaciones no autorizados, habida cuenta del estado de la tecnología, la naturaleza de los datos almacenados y los riesgos a que están expuestos. Las medidas de seguridad incluyen: cifrado de datos en reposo y en tránsito, control de acceso basado en roles (RBAC), autenticación multifactor para acceso a sistemas críticos, auditoría de accesos y logs de seguridad, planes de respuesta a incidentes, y evaluaciones periódicas de seguridad. Puede consultarse la política de Seguridad del Banco en el portal corporativo.",
+      "document_uri": "data/politica_proteccion_datos.pdf#sec6",
+      "chunk_id": "politica_sec6_seguridad",
+      "criticality": "high",
+      "topic": "seguridad",
+      "source_owner": "Banco General",
+      "updated_at": "2025-04-21"
+    }
+  ]
+}

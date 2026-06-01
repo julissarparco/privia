@@ -1,0 +1,13 @@
+# PRIVIA — Agente Multi-LLM de Auditoría de Privacidad
+# Dependencias para correr el notebook fuera de Google Colab.
+
+openai>=1.40,<2          # LLM GPT-4o + embeddings text-embedding-3-small (1536 dims)
+redis>=5.0,<6            # Vector store normativo (claves normativa:doc/emb/index)
+langgraph>=0.2,<0.3      # Orquestación del grafo Multi-Agente
+langchain-core>=0.3,<0.4
+langchain-openai>=0.2,<0.3
+langgraph-checkpoint-sqlite>=2.0,<3
+numpy>=1.26,<3           # Similitud coseno KNN
+pydantic>=2.5,<3         # Validación del schema NormativaChunk
+python-dotenv>=1.0,<2    # Carga .env al correr local
+jupyter>=1.0             # Para abrir el .ipynb localmente

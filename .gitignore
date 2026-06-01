@@ -1,0 +1,21 @@
+# Credenciales y entornos virtuales
+.env
+.env.local
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Outputs de ejecución y caches locales
+*.sqlite
+*.sqlite3
+*.log
+audit_log_*.json
+
+# Sistema
+.DS_Store
+Thumbs.db

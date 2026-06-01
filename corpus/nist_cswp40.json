@@ -1,0 +1,108 @@
+{
+  "chunks": [
+    {
+      "document_name": "NIST Privacy Framework 1.1 (CSWP 40)",
+      "document_type": "framework",
+      "article": "Function: IDENTIFY-P (ID-P) — ID.RA-P",
+      "section": "Risk Assessment — Evaluación de riesgo de privacidad",
+      "content": "La organización comprende los riesgos de privacidad para los individuos y cómo dichos riesgos pueden generar impactos en las operaciones organizacionales. ID.RA-P1: Factores contextuales relacionados con los sistemas/productos/servicios y las acciones de datos son identificados (demografía, sensibilidad, visibilidad del procesamiento). ID.RA-P3: Las acciones de datos potencialmente problemáticas y los problemas asociados son identificados. ID.RA-P4: Las acciones problemáticas de datos, probabilidades e impactos son usados para determinar y priorizar el riesgo. ID.RA-P5: Las respuestas al riesgo son identificadas, priorizadas e implementadas. ID.RA-P6: Las partes del ecosistema de procesamiento de datos son evaluadas mediante un proceso de evaluación de riesgo de privacidad.",
+      "document_uri": "data/nist_cswp40.pdf#id_ra_p",
+      "chunk_id": "nist_id_ra_p",
+      "criticality": "high",
+      "topic": "evaluacion_riesgo",
+      "source_owner": "National Institute of Standards and Technology (NIST)",
+      "updated_at": "2025-04-14"
+    },
+    {
+      "document_name": "NIST Privacy Framework 1.1 (CSWP 40)",
+      "document_type": "framework",
+      "article": "Function: GOVERN-P (GV-P) — GV.PO-P",
+      "section": "Governance Policies, Processes and Procedures",
+      "content": "Desarrollar e implementar la supervisión organizacional para gestionar el riesgo de privacidad. GV.PO-P1: Los valores y políticas de privacidad organizacionales son establecidos, comunicados y aplicados. GV.PO-P2: Los roles, responsabilidades y autoridades de privacidad son establecidos y comunicados. GV.PO-P3: Los requisitos legales y regulatorios de privacidad son identificados y gestionados. GV.PO-P4: Los procesos de gobernanza de privacidad son establecidos. GV.PO-P5: Las estrategias de privacidad están alineadas con las estrategias organizacionales más amplias. GV.DE-P: Las partes del ecosistema de procesamiento de datos son gestionadas con políticas consistentes.",
+      "document_uri": "data/nist_cswp40.pdf#gv_po_p",
+      "chunk_id": "nist_gv_po_p",
+      "criticality": "high",
+      "topic": "gobernanza",
+      "source_owner": "National Institute of Standards and Technology (NIST)",
+      "updated_at": "2025-04-14"
+    },
+    {
+      "document_name": "NIST Privacy Framework 1.1 (CSWP 40)",
+      "document_type": "framework",
+      "article": "Function: PROTECT-P (PR-P) — PR.DS-P",
+      "section": "Data Security — Seguridad de datos",
+      "content": "Los datos son gestionados de acuerdo con la estrategia de riesgo organizacional para proteger la privacidad de los individuos y mantener confidencialidad, integridad y disponibilidad. PR.DS-P1: La confidencialidad, integridad y disponibilidad de datos en reposo son protegidas. PR.DS-P2: La confidencialidad, integridad y disponibilidad de datos en tránsito son protegidas. PR.DS-P3: Los sistemas/productos/servicios y datos asociados son gestionados durante su ciclo de vida. PR.DS-P8: La autenticidad e integridad de hardware y software son evaluadas antes de adquisición y uso. PR.DS-P9: La confidencialidad, integridad y disponibilidad de datos en uso son protegidas. PR.DS-P10: Los respaldos de datos son creados, protegidos, mantenidos y probados.",
+      "document_uri": "data/nist_cswp40.pdf#pr_ds_p",
+      "chunk_id": "nist_pr_ds_p",
+      "criticality": "high",
+      "topic": "seguridad",
+      "source_owner": "National Institute of Standards and Technology (NIST)",
+      "updated_at": "2025-04-14"
+    },
+    {
+      "document_name": "NIST Privacy Framework 1.1 (CSWP 40)",
+      "document_type": "framework",
+      "article": "Function: PROTECT-P (PR-P) — PR.AA-P",
+      "section": "Authentication and Access Control — Control de acceso y autenticación",
+      "content": "El acceso a datos físicos y lógicos y a sistemas es gestionado de acuerdo con el riesgo evaluado. PR.AA-P1: Las identidades y credenciales de usuarios, servicios y hardware son gestionadas. PR.AA-P2: Las identidades son probadas, vinculadas y afirmadas de acuerdo con el riesgo. PR.AA-P3: Individuos, servicios y hardware son autenticados de acuerdo con el riesgo. PR.AA-P4: Las afirmaciones de identidad son protegidas, transmitidas y verificadas. PR.AA-P5: Los permisos, derechos y autorizaciones de acceso son definidos en política, gestionados, aplicados y revisados, e incorporan los principios de mínimo privilegio y separación de funciones. PR.AA-P6: El acceso físico a datos y dispositivos es gestionado, monitoreado y aplicado de acuerdo con el riesgo.",
+      "document_uri": "data/nist_cswp40.pdf#pr_aa_p",
+      "chunk_id": "nist_pr_aa_p",
+      "criticality": "high",
+      "topic": "control_acceso",
+      "source_owner": "National Institute of Standards and Technology (NIST)",
+      "updated_at": "2025-04-14"
+    },
+    {
+      "document_name": "NIST Privacy Framework 1.1 (CSWP 40)",
+      "document_type": "framework",
+      "article": "Function: PROTECT-P (PR-P) — PR.IR-P",
+      "section": "Technology Infrastructure Resilience",
+      "content": "Las arquitecturas de seguridad son gestionadas con la estrategia de riesgo organizacional para proteger la privacidad de los individuos. PR.IR-P1: Las redes y entornos son protegidos del acceso y uso lógico no autorizado. PR.IR-P2: Los activos tecnológicos organizacionales, incluidos datos asociados, son protegidos contra amenazas ambientales. PR.IR-P3: Se implementan mecanismos para lograr requisitos de resiliencia en situaciones normales y adversas. PR.IR-P4: Se mantiene capacidad de recursos adecuada para garantizar la disponibilidad. Los entornos cloud requieren evaluación de seguridad adicional por la ubicación de datos fuera del control directo.",
+      "document_uri": "data/nist_cswp40.pdf#pr_ir_p",
+      "chunk_id": "nist_pr_ir_p",
+      "criticality": "medium",
+      "topic": "seguridad",
+      "source_owner": "National Institute of Standards and Technology (NIST)",
+      "updated_at": "2025-04-14"
+    },
+    {
+      "document_name": "NIST Privacy Framework 1.1 (CSWP 40)",
+      "document_type": "framework",
+      "article": "Function: CONTROL-P (CT-P)",
+      "section": "Data Processing Ecosystem — Gestión del ecosistema de terceros",
+      "content": "Las organizaciones implementan políticas y prácticas adecuadas para que el procesamiento de datos sea suficientemente transparente para que los individuos puedan entender las implicaciones de privacidad del procesamiento y ejercer sus derechos. CT.DM-P: Los datos son gestionados con políticas y procedimientos que soportan el ejercicio de los derechos de privacidad de los individuos. Las partes del ecosistema de procesamiento de datos incluyendo proveedores cloud, terceros y APIs externas deben operar bajo acuerdos contractuales que garanticen protección equivalente. Se debe verificar que proveedores externos cumplan con los mismos estándares de privacidad.",
+      "document_uri": "data/nist_cswp40.pdf#ct_dm_p",
+      "chunk_id": "nist_ct_dm_p",
+      "criticality": "high",
+      "topic": "terceros_proveedores",
+      "source_owner": "National Institute of Standards and Technology (NIST)",
+      "updated_at": "2025-04-14"
+    },
+    {
+      "document_name": "NIST Privacy Framework 1.1 (CSWP 40)",
+      "document_type": "framework",
+      "article": "Function: COMMUNICATE-P (CM-P)",
+      "section": "Communication Policies and Procedures — Comunicación y transparencia",
+      "content": "Las organizaciones desarrollan e implementan actividades de comunicación apropiadas para garantizar que los individuos puedan entender y actuar sobre las implicaciones de privacidad. CM.PO-P: Las políticas de privacidad, procesos y procedimientos son comunicados. CM.AW-P: Los individuos y organizaciones son informados sobre la responsabilidad del controlador y los procesadores. La comunicación de políticas de privacidad debe ser clara, accesible y comprensible para los titulares, sin jerga técnica excesiva. Incluye informar sobre el uso de IA, decisiones automatizadas y elaboración de perfiles con sus implicaciones.",
+      "document_uri": "data/nist_cswp40.pdf#cm_po_p",
+      "chunk_id": "nist_cm_po_p",
+      "criticality": "medium",
+      "topic": "transparencia",
+      "source_owner": "National Institute of Standards and Technology (NIST)",
+      "updated_at": "2025-04-14"
+    },
+    {
+      "document_name": "NIST Privacy Framework 1.1 (CSWP 40)",
+      "document_type": "framework",
+      "article": "Section 1.2.3",
+      "section": "Privacy Risk Assessment — Evaluación de riesgo de privacidad e IA",
+      "content": "La gestión del riesgo de privacidad es un conjunto de procesos inter-organizacionales que ayuda a las organizaciones a entender cómo sus sistemas, productos y servicios pueden crear problemas para los individuos. Los riesgos de privacidad relacionados con IA deben tratarse junto con otros riesgos empresariales como privacidad y ciberseguridad para soportar resultados integrados y eficiencias organizacionales. El NIST también desarrolla Perfiles Comunitarios de frameworks integrados para ayudar a organizaciones a entender y gestionar la compleja relación y dependencias entre IA y otros riesgos. Los sistemas de IA que procesan datos personales requieren evaluación de riesgo de privacidad específica.",
+      "document_uri": "data/nist_cswp40.pdf#sec1_2_3",
+      "chunk_id": "nist_privacy_risk_ai",
+      "criticality": "high",
+      "topic": "evaluacion_riesgo",
+      "source_owner": "National Institute of Standards and Technology (NIST)",
+      "updated_at": "2025-04-14"
+    }
+  ]
+}
